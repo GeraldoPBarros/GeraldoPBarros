@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **geraldo.barros20@gmail.com**
 
+- 🖥️ My portfolio https://geraldopbarros.github.io/
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1632FTLgYb6xIcXSgZY6HUvUU8jOKWzTf/view?usp=sharing](https://drive.google.com/file/d/1632FTLgYb6xIcXSgZY6HUvUU8jOKWzTf/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
