@@ -12,7 +12,7 @@
 
 - 🖥️ My portfolio https://geraldopbarros.github.io/
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1632FTLgYb6xIcXSgZY6HUvUU8jOKWzTf/view?usp=sharing](https://drive.google.com/file/d/1ss9JOrRnb620657_0PV1t3oIDERuCxVQ/view?usp=sharing)
+<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1632FTLgYb6xIcXSgZY6HUvUU8jOKWzTf/view?usp=sharing](https://drive.google.com/file/d/1ss9JOrRnb620657_0PV1t3oIDERuCxVQ/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
